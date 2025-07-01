@@ -1,0 +1,18 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {},
+  "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-vsliveshare.vsliveshare",  // Live Share extension
+                "ritwickdey.liveserver",  // Live Server extension
+                "vsls-contrib.gitdoc"  // Ensure GitDoc is listed here for automatic installation
+            ],
+            "settings": {
+                "gitdoc.enabled": true,
+                "git.autofetch": true,
+                "gitdoc.autoCommitDelay": 5000
+            }
+        }
+    }
+}
