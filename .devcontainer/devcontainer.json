@@ -5,7 +5,12 @@
 				"vsls-contrib.gitdoc",
 				"ritwickdey.LiveServer",
 				"ms-vsliveshare.vsliveshare"
-			]
+			],
+		            "settings": {
+		                "gitdoc.enabled": true,
+		                "git.autofetch": true,
+		                "gitdoc.autoCommitDelay": 5000
+		            }
 		}
 	}
 }
