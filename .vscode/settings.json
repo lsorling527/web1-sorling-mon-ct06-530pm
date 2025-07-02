@@ -1,5 +1,5 @@
 {
     "gitdoc.enabled": true,
-		                "git.autofetch": true,
-		                "gitdoc.autoCommitDelay": 5000
+	"git.autofetch": true,
+	"gitdoc.autoCommitDelay": 5000
 }
