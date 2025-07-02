@@ -1,3 +1,6 @@
+Time scroll forward... now is day 2
+looking out for auto commit by extensions.
+
 Time scroll forward... one week has passed.
 I know someone had fork this repo. Let's see if they can get the new files or not.
 
